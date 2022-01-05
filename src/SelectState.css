@@ -1,0 +1,17 @@
+.display{
+    width: 300px;
+    display: flex;
+    align-items: center;
+}
+.container{
+    border: 1px solid black;
+    display: flex !important;
+    flex-direction: row!important;
+}.heading{
+    font-size: 50px !important;
+    text-align: center;
+    margin: 50px !important;
+}
+.grid_container{
+    align-items: center !important;
+}
