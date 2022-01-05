@@ -1,5 +1,4 @@
 
-http://foodiekismat.tk/
 
 
 # Getting Started with Create React App
